@@ -1,4 +1,4 @@
-[<kbd><img title="Brazilian Portuguese" alt="Brazilian Portuguese" src="https://flagicons.lipis.dev/flags/4x3/br.svg" width="22"></kbd> Versão em português](README_EN.md)
+[<kbd><img title="Brazilian Portuguese" alt="Brazilian Portuguese" src="https://flagicons.lipis.dev/flags/4x3/br.svg" width="22"></kbd> Versão em português](README_PT.md)
 
 # Object-Oriented Programming II (INE 5404)
 
