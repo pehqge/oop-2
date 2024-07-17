@@ -35,14 +35,6 @@ The following table lists all the exercises completed during the course, in orde
 
 ## The Lost Key - Final Project of the Course
 
-<div align="center">
-    <div style="display: flex; align-items: center;">
-        <img src="./group tasks/the lost key/logo.png" alt="Logo the lost key" style="align-self: center;">
-    </div>
-    <p></p>
-    <p></p>
-</div>
-
 The final project of the course was completed in a group by me, [Augusto Schweitzer](https://github.com/AugustoSchw), [Rodrigo Schwartz](https://github.com/R0drigoSchwartz), and [Tom Hunt](https://github.com/tmphnt). The project consisted of creating an object-oriented game using the concepts learned during the course (such as aggregation, composition, inheritance, polymorphism, clean code, SOLID principle, UML diagram).
 
 For more details about the game, visit the **[official repository](https://github.com/pehqge/the-lost-key)**.
@@ -57,6 +49,4 @@ For more details about the game, visit the **[official repository](https://githu
     <div style="display: flex; align-items: center;">
         <img src="./group tasks/the lost key/tutorial.png" alt="The Lost Key tutorial" style="align-self: center;">
     </div>
-    <p></p>
-    <p></p>
 </div>

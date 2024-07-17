@@ -1,5 +1,5 @@
 
-<kbd>[<img title="English" alt="English" src="https://flagicons.lipis.dev/flags/4x3/us.svg" width="22"> Read this in English](README_EN.md)</kbd>
+[<kbd><img title="English" alt="English" src="https://flagicons.lipis.dev/flags/4x3/us.svg" width="22"></kbd> English Version](README_EN.md)
 
 # Programação Orientada a Objetos II (INE 5404)
 
@@ -38,14 +38,6 @@ A seguinte tabela lista todos os exercícios feitos durante a disciplina, eles e
 
 ## The Lost Key - Trabalho final da disciplina
 
-<div align="center">
-    <div style="display: flex; align-items: center;">
-        <img src="./group tasks/the lost key/logo.png" alt="Logo the lost key" style="align-self: center;">
-    </div>
-    <p></p>
-    <p></p>
-</div>
-
 O trabalho final da disciplina foi realizado em grupo por mim, [Augusto Schweitzer](https://github.com/AugustoSchw), [Rodrigo Schwartz](https://github.com/R0drigoSchwartz) e [Tom Hunt](https://github.com/tmphnt). O trabalho consistia em criar um jogo orientado a objetos, utilizando os conceitos aprendidos durante a disciplina (como agregação, composição, herança, polimorfismo, clean code, SOLID principle, diagrama UML).
 
 Para mais detalhes sobre o jogo acesse o **[repositório oficial](https://github.com/pehqge/the-lost-key)**.
@@ -60,6 +52,4 @@ Para mais detalhes sobre o jogo acesse o **[repositório oficial](https://github
     <div style="display: flex; align-items: center;">
         <img src="./group tasks/the lost key/tutorial.png" alt="Logo the lost key" style="align-self: center;">
     </div>
-    <p></p>
-    <p></p>
 </div>
