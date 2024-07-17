@@ -1,7 +1,6 @@
 # Object-Oriented Programming II (OOP-2)
 
-[![English](https://img.shields.io/badge/lang-English-blue.svg)](README_EN.md)
-[![Português](https://img.shields.io/badge/lang-Português-green.svg)](README_PT.md)
+<kbd>[<img title="Portugese Brazilian" alt="Portuguese" src="    https://flagicons.lipis.dev/flags/4x3/br.svg" width="22">](README_PT.md)</kbd>
 
 This repository hosts resources and assignments for the Object-Oriented Programming II course. Advanced OOP topics include design patterns, exception handling, file I/O, and more complex data structures.
 
